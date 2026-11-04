@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+dist/
+.vercel/
+.wrangler/
+.env
+.env.*
+!.env.example
+server/.dev.vars
+*.tsbuildinfo

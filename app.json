@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Spice it up \ud83c\udf36\ufe0f",
+    "slug": "spice-it-up",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": null,
+    "userInterfaceStyle": "light",
+    "splash": null,
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": null
+    },
+    "web": {
+      "favicon": null
+    }
+  }
+}
