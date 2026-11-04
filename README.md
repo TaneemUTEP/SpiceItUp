@@ -1,4 +1,4 @@
-# Spice it up
+# SpiceItUp
 
 An Expo app with party games, Supabase email/password authentication, and private Action Cam video storage in Cloudflare R2.
 
