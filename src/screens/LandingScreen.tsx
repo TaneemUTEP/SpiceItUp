@@ -15,7 +15,7 @@ const LandingScreen: React.FC<Props> = ({ navigation }) => {
         <Text style={styles.brand}>Spice it up <Text style={styles.pepper}>\uD83C\uDF36\uFE0F</Text></Text>
         <Text style={[styles.headline, { fontSize: width < 380 ? 38 : 46, lineHeight: width < 380 ? 44 : 52 }]}>Make room for a little more play.</Text>
         <Text style={styles.description}>
-          Pick a game, follow a surprise prompt, and make the evening your own. Start with a free account when you’re ready.
+          Pick a game, follow a surprise prompt, or record a moment in Action Cam and play it back together. Start with a free account when you're ready.
         </Text>
 
         <View style={styles.gameStrip}>
